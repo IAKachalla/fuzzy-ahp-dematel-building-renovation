@@ -1,0 +1,13 @@
+expert,consistency_ratio,cluster_code,cluster
+E1,0.002711781796016714,F,Financial barriers
+E2,0.0028264211509069826,F,Financial barriers
+E3,0.0028862488301870733,F,Financial barriers
+E1,0.005796520209773784,I,Institutional barriers
+E2,0.005919062193574636,I,Institutional barriers
+E3,0.00598301131818032,I,Institutional barriers
+E1,0.005796520209773784,T,Technical barriers
+E2,0.005919062193574636,T,Technical barriers
+E3,0.005983011318179936,T,Technical barriers
+E1,0.005796520209775315,S,Social barriers
+E2,0.005919062193578464,S,Social barriers
+E3,0.005983011318179554,S,Social barriers

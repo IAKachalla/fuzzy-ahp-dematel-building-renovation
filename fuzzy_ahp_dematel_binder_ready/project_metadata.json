@@ -1,0 +1,15 @@
+{
+  "paper": "Systemic Barriers to Sustainable Building Renovation: A Life Cycle-Based Fuzzy AHP-DEMATEL Approach",
+  "methods": [
+    "Fuzzy AHP",
+    "Fuzzy DEMATEL",
+    "Monte Carlo sensitivity analysis",
+    "Policy scenario modelling"
+  ],
+  "default_data": "Simulated demonstration data aligned with the paper structure",
+  "replace_with_real_data": [
+    "sample_cluster_pairwise.csv",
+    "sample_subbarrier_pairwise.csv",
+    "sample_dematel_influence.csv"
+  ]
+}

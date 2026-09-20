@@ -1,0 +1,16 @@
+cluster_code,cluster,code,barrier
+F,Financial barriers,F1,High investment cost
+F,Financial barriers,F2,Payback period uncertainty
+F,Financial barriers,F3,Split incentives
+F,Financial barriers,F4,Lack of loan opportunities
+F,Financial barriers,F5,Lack of government support
+F,Financial barriers,F6,Lack of private investment incentives
+I,Institutional barriers,I1,Complex workflow and fragmented responsibilities
+I,Institutional barriers,I2,Multi-stakeholder misalignment
+I,Institutional barriers,I3,Lack of energy audit information
+T,Technical barriers,T1,Lack of skilled professionals
+T,Technical barriers,T2,Difficulty selecting optimal renovation measures
+T,Technical barriers,T3,Lack of standards and guidelines
+S,Social barriers,S1,Lack of motivation and awareness
+S,Social barriers,S2,Lack of trust in benefits and contractors
+S,Social barriers,S3,Perceived disruption
